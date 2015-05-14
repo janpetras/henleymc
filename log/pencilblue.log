@@ -4,3 +4,11 @@
 {"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-14T10:46:08.962Z"}
 {"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-05-14T10:46:08.986Z"}
 {"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-14T10:46:09.094Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-14T10:59:52.158Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-14T10:59:52.518Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-14T10:59:52.719Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-14T10:59:55.475Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-14T10:59:56.281Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-14T10:59:57.268Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-05-14T11:00:01.610Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-05-14T11:00:02.016Z"}
