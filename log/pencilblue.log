@@ -1,0 +1,6 @@
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-14T10:46:03.752Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-14T10:46:07.390Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-14T10:46:07.622Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-14T10:46:08.962Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-05-14T10:46:08.986Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-14T10:46:09.094Z"}
