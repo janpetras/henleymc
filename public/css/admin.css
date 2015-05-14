@@ -97,8 +97,8 @@ form .error
 
 #menu_logo
 {
-    height: 1.25em;
-    margin-top: -.375em;
+    height: 2.70em;
+    margin-top: -.775em;
 }
 
 /* ALERTS */
@@ -140,14 +140,14 @@ form .error
 /* BUTTONS */
 .btn-primary
 {
-    background-color: #01AAD5;
-    border: 1px solid #01AAD5;
+    background-color: #cc0000;
+    border: 1px solid #cc0000;
 }
 
 .btn-default:hover, .btn-primary:hover, .btn-info:hover, .btn-success:hover, .btn-warning:hover
 {
-    background-color: #5D5D5D;
-    border: 1px solid #5D5D5D;
+    background-color: #000000;
+    border: 1px solid #000000;
     color: #FFFFFF;
 }
 
@@ -580,4 +580,17 @@ form .error
     width: 100%;
     box-sizing: border-box;
     -moz-box-sizing: border-box;
+}
+
+/* OWNED */
+@media all and (min-width: 992px) {
+    .navbar-brand {
+        height: 114px;
+    }
+}
+
+@media all and (min-width: 768px) {
+    .navbar-collapse {
+        min-width: 781px;
+    }
 }

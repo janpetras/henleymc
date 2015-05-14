@@ -2,7 +2,7 @@ var loc =
 {
     generic:
     {
-        PENCILBLUE: 'pencilblue',
+        PENCILBLUE: 'Henley Management Centre',
         ALL_RIGHTS: 'All rights reserved',
         NONE: 'None',
         LEFT: 'Left',
@@ -141,8 +141,8 @@ var loc =
         THEME_DEFAULT: 'Theme Default',
         USER: 'User',
         SUBSCRIBE: 'Subscribe',
-        PRIVACY_POLICY: 'Privacy policy',
-        MAKE_PB_BETTER: 'Help to improve PencilBlue by sending us information about your installation',
+        PRIVACY_POLICY: '"Privacy" policy',
+        MAKE_PB_BETTER: 'Help to improve this thing by sending me useless information about your installation',
         CLOSE: 'Close',
         APPLY_SETTINGS: 'Apply Settings',
         CONFIGURATION_SETTINGS: 'Configuration Settings',
@@ -153,7 +153,7 @@ var loc =
         COMMAND_MUST_BE_OBJECT: 'The command must be a valid object',
         PROCEDURE_MUST_BE_OBJECT: 'A valid procedure object is required in order to execute the indexing operation',
         OBJ_TO_PARAMS_MUST_BE: 'The obj must be an object and the to parameter must be a string',
-        EMAIL_NOT_CONFIGURED: 'Email has not been configured on this server',
+        EMAIL_NOT_CONFIGURED: 'LOL! Dumbass. Anyway, email has not been configured on this server. Cannot help you, sorry.',
         INVALID_URL: 'An invalid URL was provided',
         INVALID_MEDIA_URL: 'The media url does not contain the required information for importing',
         UNSUPPORTED_MEDIA: 'The supplied media type is unsupported',
@@ -200,7 +200,7 @@ var loc =
         ADMIN_LOGIN: 'Writer, editor, and administrator login',
         USERNAME_OR_EMAIL: 'Username or email address',
         INVALID_LOGIN: 'Invalid username and password combination',
-        READY_TO_USE: 'Your pencilblue installation is ready to use',
+        READY_TO_USE: 'Your efforts paid off. Installation is ready to rumble.',
         ACCOUNT_CREATED: 'Your account was successfully created, you may now login'
     },
     admin:
