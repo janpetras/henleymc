@@ -177,3 +177,47 @@
 {"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-15T07:27:54.082Z"}
 {"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:28:26.563Z"}
 {"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:30:36.532Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:09.807Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-15T07:39:13.650Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:13.859Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:15.943Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:16.638Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:17.306Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:18.000Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:18.735Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:19.452Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:20.158Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:20.851Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:21.548Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:22.229Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:22.933Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:23.629Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:55.166Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-15T07:39:55.446Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-15T07:39:55.639Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-15T07:39:56.227Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-05-15T07:39:56.251Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-15T07:39:56.507Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:40:42.550Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:40:43.040Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:40:43.089Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:40:43.251Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:40:43.252Z"}
+{"level":"info","message":"PluginService: Initialized plugin Portfolio Theme (portfolio). RESULT=[true]","timestamp":"2015-05-15T07:40:43.336Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:03.770Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:04.164Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:04.334Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:04.336Z"}
+{"level":"info","message":"PluginService: Initialized plugin Google Analytics Plugin (ga). RESULT=[true]","timestamp":"2015-05-15T07:41:04.338Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:08.332Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:08.719Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:08.721Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:08.871Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-15T07:41:08.872Z"}
+{"level":"info","message":"PluginService: Initialized plugin Sample Plugin (sample). RESULT=[true]","timestamp":"2015-05-15T07:41:09.192Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:42:02.986Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:42:06.696Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:42:21.884Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:48:05.526Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:48:39.166Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:49:05.775Z"}
