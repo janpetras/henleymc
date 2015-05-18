@@ -221,3 +221,107 @@
 {"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:48:05.526Z"}
 {"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:48:39.166Z"}
 {"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-15T07:49:05.775Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T14:47:22.285Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T14:47:28.255Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T14:47:28.461Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T14:47:31.521Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-18T14:47:31.635Z"}
+{"level":"info","message":"PluginService: Initialized plugin Portfolio Theme (portfolio). RESULT=[true]","timestamp":"2015-05-18T14:47:32.110Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T14:47:32.459Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T14:56:45.551Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T14:56:49.488Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T14:56:49.689Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T14:56:50.531Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-05-18T14:56:50.554Z"}
+{"level":"info","message":"PluginService: Initialized plugin Portfolio Theme (portfolio). RESULT=[true]","timestamp":"2015-05-18T14:56:50.887Z"}
+{"level":"info","message":"PluginService: Initialized plugin Google Analytics Plugin (ga). RESULT=[true]","timestamp":"2015-05-18T14:56:50.908Z"}
+{"level":"info","message":"PluginService: Initialized plugin Sample Plugin (sample). RESULT=[true]","timestamp":"2015-05-18T14:56:50.927Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T14:56:51.059Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T14:56:52.764Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T14:56:59.985Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T14:57:04.670Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T14:57:07.107Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T14:57:37.073Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T14:57:37.391Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T14:57:37.594Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T14:57:38.908Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-18T14:57:39.027Z"}
+{"level":"info","message":"PluginService: Initialized plugin Portfolio Theme (portfolio). RESULT=[true]","timestamp":"2015-05-18T14:57:39.342Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T14:57:39.659Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:03:33.917Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T15:03:38.949Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:03:39.188Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T15:03:41.222Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-18T15:03:42.245Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T15:03:43.260Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-05-18T15:03:50.741Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-05-18T15:03:51.022Z"}
+{"level":"warn","message":"RequestHandler: The active theme is not set.  Defaulting to 'pencilblue'","timestamp":"2015-05-18T15:04:10.233Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:07:56.678Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T15:07:56.950Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:07:57.159Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T15:07:58.451Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-18T15:07:58.584Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T15:07:59.212Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:08:12.873Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:08:47.647Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T15:08:47.948Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:08:48.171Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T15:08:49.499Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-18T15:08:49.632Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T15:08:50.248Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:08:55.160Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:09:15.082Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:09:55.861Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:09:56.396Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:09:56.702Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:09:57.128Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:09:57.222Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-18T15:09:57.302Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:10:45.499Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:10:45.597Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:11:12.375Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:12:29.719Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T15:12:30.087Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:12:30.303Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T15:12:30.939Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-05-18T15:12:30.964Z"}
+{"level":"info","message":"PluginService: Initialized plugin Portfolio Theme (portfolio). RESULT=[false]","timestamp":"2015-05-18T15:12:30.970Z"}
+{"level":"info","message":"PluginService: Initialized plugin Google Analytics Plugin (ga). RESULT=[true]","timestamp":"2015-05-18T15:12:30.981Z"}
+{"level":"info","message":"PluginService: Initialized plugin Sample Plugin (sample). RESULT=[true]","timestamp":"2015-05-18T15:12:31.137Z"}
+{"level":"warn","message":"PluginService: Plugin [Portfolio Theme] failed to initialize. INITIALIZED=false","timestamp":"2015-05-18T15:12:31.137Z"}
+{"level":"error","message":"PluginService: The following error was produced while initializing the Portfolio Theme plugin: Error: ENOENT, open '/Users/ian/GitHub/henley/plugins/portfolio/details.json'\n    at Error (native)","timestamp":"2015-05-18T15:12:31.138Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T15:12:31.267Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:12:54.658Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:12:54.868Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:13:12.898Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:13:13.414Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:13:13.430Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:13:13.594Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:13:13.595Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (henley). RESULT=[true]","timestamp":"2015-05-18T15:13:13.763Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T15:13:36.954Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T15:13:37.127Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T15:14:48.366Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T15:14:48.533Z"}
+{"level":"error","message":"RequestHandler: An error occurred during controller execution. URL=[GET:/] ROUTE={\"path\":\"\",\"pattern\":\"^/[/]{0,1}$\",\"path_vars\":{},\"expression\":{},\"themes\":{\"pencilblue\":{\"GET\":{\"method\":\"GET\",\"path\":\"/\",\"access_level\":0,\"auth_required\":false,\"content_type\":\"text/html\"}},\"henley\":{\"GET\":{\"method\":\"GET\",\"path\":\"/\",\"auth_required\":false,\"content_type\":\"text/html\"}}}}\nTypeError: Cannot read property 'length' of null\n    at /Users/ian/GitHub/henley/plugins/henley/controllers/index.js:67:57\n    at /Users/ian/GitHub/henley/include/service/simple_layered_service.js:95:17\n    at Object.async.whilst (/Users/ian/GitHub/henley/node_modules/async/lib/async.js:686:13)\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:682:23\n    at /Users/ian/GitHub/henley/include/service/simple_layered_service.js:76:21\n    at /Users/ian/GitHub/henley/include/service/db_entity_service.js:61:24\n    at /Users/ian/GitHub/henley/include/dao/dao.js:142:12\n    at /Users/ian/GitHub/henley/include/dao/dao.js:270:17\n    at handleCallback (/Users/ian/GitHub/henley/node_modules/mongodb/lib/utils.js:95:12)\n    at /Users/ian/GitHub/henley/node_modules/mongodb/lib/cursor.js:571:16","timestamp":"2015-05-18T15:16:24.975Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:16:44.203Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T15:16:50.824Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:16:51.182Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T15:16:52.212Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-05-18T15:16:52.236Z"}
+{"level":"info","message":"PluginService: Initialized plugin Google Analytics Plugin (ga). RESULT=[true]","timestamp":"2015-05-18T15:16:52.251Z"}
+{"level":"info","message":"PluginService: Initialized plugin Sample Plugin (sample). RESULT=[true]","timestamp":"2015-05-18T15:16:52.665Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (henley). RESULT=[false]","timestamp":"2015-05-18T15:16:52.665Z"}
+{"level":"warn","message":"PluginService: Plugin [Henley Theme] failed to initialize. INITIALIZED=false","timestamp":"2015-05-18T15:16:52.666Z"}
+{"level":"error","message":"PluginService: The following error was produced while initializing the Henley Theme plugin: Error: ENOENT, open '/Users/ian/GitHub/henley/plugins/henley/details.json'\n    at Error (native)","timestamp":"2015-05-18T15:16:52.666Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T15:16:52.756Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-18T15:17:05.129Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:29.217Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:29.276Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:34.297Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:34.749Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:34.753Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:34.895Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:34.896Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-18T15:17:34.955Z"}

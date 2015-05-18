@@ -2,10 +2,10 @@
 module.exports = function PortfolioModule(pb) {
 
     /**
-     * Portfolio - A portfolio site theme for PencilBlue
+     * Henley - A Henley site theme for Henley Management Centre
      *
-     * @author Blake Callens <blake@pencilblue.org>
-     * @copyright 2014 PencilBlue, LLC
+     * @author Blake Callens <contact@ianpetras.com>
+     * @copyright 2015 Ian Petras
      */
     function Portfolio(){}
 

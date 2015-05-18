@@ -1,20 +1,20 @@
 {
     "uid": "portfolio",
-    "name": "Portfolio Theme",
-    "description": "A portfolio site theme for PencilBlue",
+    "name": "Henley Theme",
+    "description": "A Henley Management Centre site theme.",
     "version": "0.2.0",
     "pb_version": "0.4.x",
     "author": {
-        "name": "PencilBlue",
-        "email": "info@pencilblue.org",
-        "website": "http://pencilblue.org",
+        "name": "Henley Management Centre",
+        "email": "info@henleymc.com",
+        "website": "http://henleymc.com",
         "contributors": [
             {
-                "name": "Blake Callens",
+                "name": "Ian Petras",
                 "email": ""
             },
             {
-                "name": "Brian Hyder",
+                "name": "Ian Petras",
                 "email": ""
             }
         ]
