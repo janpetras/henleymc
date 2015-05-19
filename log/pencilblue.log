@@ -325,3 +325,38 @@
 {"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:34.895Z"}
 {"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-18T15:17:34.896Z"}
 {"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-18T15:17:34.955Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:55:05.928Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-18T15:55:11.459Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-18T15:55:11.668Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-18T15:55:13.398Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-18T15:55:13.527Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-18T15:55:14.134Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-18T15:55:14.620Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-19T09:57:57.467Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-19T09:58:06.981Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-19T09:58:07.184Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-19T09:58:09.375Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-19T09:58:09.485Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-19T09:58:10.145Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-19T09:58:10.482Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-19T09:59:03.606Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-19T10:00:13.700Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-19T10:00:51.844Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-19T10:00:53.628Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-19T10:00:53.847Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-19T10:00:54.939Z"}
+{"level":"info","message":"PencilBlue: pencilblue running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-05-19T10:00:55.317Z"}
+{"level":"info","message":"PluginService: Initialized plugin Google Analytics Plugin (ga). RESULT=[true]","timestamp":"2015-05-19T10:00:55.442Z"}
+{"level":"info","message":"PluginService: Initialized plugin Sample Plugin (sample). RESULT=[true]","timestamp":"2015-05-19T10:00:55.591Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-19T10:00:55.608Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-19T10:00:56.464Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-19T10:01:06.662Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-19T10:01:07.231Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-19T10:01:07.499Z"}
+{"level":"warn","message":"PencilBlue: pb.plugins is deprecated.  Use new pb.PluginService instead","timestamp":"2015-05-19T10:01:07.500Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-05-19T10:01:07.500Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-05-19T10:01:07.745Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-19T10:03:02.089Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-19T10:03:06.389Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-19T10:03:27.289Z"}
+{"level":"warn","message":"GoogleAnalytics: Settings have not been initialized!","timestamp":"2015-05-19T10:08:14.882Z"}
