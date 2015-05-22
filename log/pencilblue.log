@@ -722,3 +722,52 @@
 {"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-22T14:09:55.134Z"}
 {"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-22T14:09:55.666Z"}
 {"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-22T14:09:56.005Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:28:42.812Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-22T14:28:49.411Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:28:49.646Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-22T14:28:51.983Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-22T14:28:52.092Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-22T14:28:52.713Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-22T14:28:53.043Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:37:01.506Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-22T14:37:07.461Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:37:07.660Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-22T14:37:09.097Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-22T14:37:09.208Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-22T14:37:09.727Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-22T14:37:10.074Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:37:56.331Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-22T14:38:02.354Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:38:02.623Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-22T14:38:04.222Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-22T14:38:04.348Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-22T14:38:05.153Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-22T14:38:05.479Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:40:32.451Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-22T14:40:38.209Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:40:38.421Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-22T14:40:39.946Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-22T14:40:40.065Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-22T14:40:40.648Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-22T14:40:40.981Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:43:11.238Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-22T14:43:19.169Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T14:43:19.393Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-22T14:43:21.212Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-22T14:43:21.322Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-22T14:43:21.962Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-22T14:43:22.301Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T15:01:51.345Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-22T15:01:57.671Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T15:01:57.883Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-22T15:01:59.888Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-22T15:02:00.006Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-22T15:02:01.031Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-22T15:02:01.391Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T15:14:51.844Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-05-22T15:14:59.292Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-05-22T15:15:02.412Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-05-22T15:15:08.572Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [] on port [8080]","timestamp":"2015-05-22T15:15:08.702Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-05-22T15:15:09.816Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-22T15:15:10.156Z"}
