@@ -24,7 +24,6 @@ var npm         = require('npm');
 var util        = require('./include/util.js');
 var HtmlEncoder = require('htmlencode');
 
-
 /**
  * The main driver file for PencilBlue.  Provides the function necessary to
  * start up the master and/or child processes.  In addition, it is responsible

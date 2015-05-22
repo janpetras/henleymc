@@ -1,0 +1,15 @@
+.redIcon {
+    background: none !important;
+    text-shadow: none;
+    color: #cc0000;
+    opacity: 1;
+}
+
+.redIcon:hover, .redIcon:focus {
+    color: #000000 !important;
+}
+
+.centerImg {
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -73,7 +73,8 @@ module.exports = function LibrariesServiceModule(pb) {
         angular_upload_shim: '//cdnjs.cloudflare.com/ajax/libs/danialfarid-angular-file-upload/1.6.1/angular-file-upload-shim.min.js',
         ng_sortable_css: '/css/lib/ng-sortable/ng-sortable.min.css',
         ng_sortable_style_css: '/css/lib/ng-sortable/ng-sortable.style.min.css',
-        ng_sortable_js: '/js/lib/ng-sortable/ng-sortable.min.js'
+        ng_sortable_js: '/js/lib/ng-sortable/ng-sortable.min.js',
+        elasticsearch: '//cdnjs.cloudflare.com/ajax/libs/elasticsearch/4.0.2/elasticsearch.angular.min.js'
     });
     
     /**
@@ -110,7 +111,8 @@ module.exports = function LibrariesServiceModule(pb) {
             angular_upload_shim: '/bower_components/danialfarid-angular-file-upload/dist/angular-file-upload-shim.min.js',
             ng_sortable_css: '/bower_components/ng-sortable/dist/ng-sortable.min.css',
             ng_sortable_style_css: '/bower_components/ng-sortable/dist/ng-sortable.style.min.css',
-            ng_sortable_js: '/bower_components/ng-sortable/dist/ng-sortable.min.js'
+            ng_sortable_js: '/bower_components/ng-sortable/dist/ng-sortable.min.js',
+            elasticsearch: 'bower_components/elasticsearch/elasticsearch.angular.min.js'
         });
 
     /**
