@@ -39,7 +39,7 @@ module.exports = function ClientJsModule(pb) {
      */
     ClientJs.getAngularController = function(objects, modules, directiveJS) {
         if(!util.isArray(modules) || modules.length === 0) {
-            modules = ['ngRoute', 'elasticsearch'];
+            modules = ['ngRoute'];
         }
 
         var angularController = 'var pencilblueApp = angular.module("pencilblueApp", ' + JSON.stringify(modules) + ')';
