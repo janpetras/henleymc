@@ -38,11 +38,11 @@ module.exports = function ClientJsModule(pb) {
      * @param {String} directiveJS JavaScript to run after on-finish-render directive
      */
     ClientJs.getAngularController = function(objects, modules, directiveJS) {
-        if(!util.isArray(modules) || modules.length === 0) {
-            modules = ['ngRoute'];
+        if( modules.length > 0) {
+            modules = ['ngRoute', 'elasticui'];
         }
 
-        var angularController = 'var pencilblueApp = angular.module("pencilblueApp", ' + JSON.stringify(modules) + ')';
+        var angularController = "var pencilblueApp = angular.module('pencilblueApp', " + JSON.stringify(modules) + ").constant('euiHost', 'https://main:bikostwq7fkmhpa9nd24gjxnazeehsyv@kili-eu-west-1.searchly.com')";
         if(!util.isNullOrUndefined(directiveJS)) {
             angularController += '.directive("onFinishRender", function($timeout){return {restrict: "A",link: function(scope, element, attr){if (scope.$last === true){$timeout(function(){' + directiveJS + '})}}}})';
         }

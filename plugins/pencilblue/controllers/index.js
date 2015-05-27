@@ -96,7 +96,7 @@ module.exports = function IndexModule(pb) {
                         var objects = {
                             trustHTML: 'function(string){return $sce.trustAsHtml(string);}'
                         };
-                        var angularData = pb.ClientJs.getAngularController(objects, ['ngSanitize']);
+                        var angularData = pb.ClientJs.getAngularController(objects, ['ngSanitize', 'elasticui']).constant('euiHost', 'https://main:bikostwq7fkmhpa9nd24gjxnazeehsyv@kili-eu-west-1.searchly.com');
                         cb(null, angularData);
                     });
                     self.getTemplate(data.content, function(err, template) {

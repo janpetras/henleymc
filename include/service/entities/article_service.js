@@ -318,7 +318,7 @@ module.exports = function ArticleServiceModule(pb) {
                     // Cutoff the article at the right number of paragraphs
                     for(i = 0; i < tempLayoutArray.length && i < contentSettings.auto_break_articles; i++) {
                         if(i === contentSettings.auto_break_articles -1 && i != tempLayoutArray.length - 1) {
-                            newLayout += tempLayoutArray[i] + '&nbsp;<a href="' + pb.config.siteRoot + '/article/' + article.url + '">' + contentSettings.read_more_text + '...</a>' + breakString;
+                            newLayout += tempLayoutArray[i] + '&nbsp;<div><a class="actionbtn" href="' + pb.config.siteRoot + '/article/' + article.url + '">' + contentSettings.read_more_text + '</a>&nbsp;<a class="actionbtn" href="' + pb.config.siteRoot + '/article/' + article.url + '">' + contentSettings.book_now_text + '</a></div>' + breakString;
                             continue;
                         }
                         newLayout += tempLayoutArray[i] + breakString;

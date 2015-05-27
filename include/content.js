@@ -50,6 +50,7 @@ module.exports = function ContentServiceModule(pb) {
         articles_per_page: 5,
         auto_break_articles: 0,
         read_more_text: 'Read more',
+        book_now_text: 'Book now',
         display_timestamp: 1,
         date_format: 'M dd, YYYY',
         two_digit_date: 0,
