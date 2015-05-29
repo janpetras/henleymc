@@ -1,5 +1,11 @@
 <div>
 <eui-searchbox field="'headline'"></eui-searchbox>
 <eui-singleselect field="'meta_keywords'" size="5"></eui-singleselect>
-<span>TEST</span>
+            <h1>Results</h1>
+                <ul>
+                    <li ng-repeat="doc in indexVM.results.hits.hits">
+                        {{doc._source | json | limitTo: 500}} <!-- OPTIONAL: display more meaningful data instead of json -->
+                    </li>
+                </ul>
+                <eui-simple-paging></eui-simple-paging>
 </div>

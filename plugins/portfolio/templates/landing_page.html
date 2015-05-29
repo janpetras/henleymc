@@ -4,23 +4,16 @@
         <div class="hero_callouts black_75" style="^display_callouts^">
             <div class="row">
                 ^callouts^
-            </div>
         </div>
     </div>
+</div>
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-            <eui-searchbox field="'headline'"></eui-searchbox>
-<eui-singleselect field="'topic'" size="5"></eui-singleselect>
-            <h1>Results</h1>
-                <ul>
-                    <li ng-repeat="doc in indexVM.results.hits.hits">
-                        {{doc._source | json | limitTo: 500}} <!-- OPTIONAL: display more meaningful data instead of json -->
-                    </li>
-                </ul>
-                <eui-simple-paging></eui-simple-paging>
                 ^layout^
-            </div>
+                ^tmp_elements=search_field^
+                ^tmp_elements=clients_slider^
         </div>
     </div>
+</div>
 ^tmp_footer^

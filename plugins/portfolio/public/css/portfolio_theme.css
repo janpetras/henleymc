@@ -88,7 +88,7 @@ a:hover
 }
 
 .navbar-brand img {
-    max-height: 32px;
+    max-height: 50px;
 }
 
 .hero {
@@ -236,7 +236,7 @@ footer {
 
 @media (min-width: 992px) {
     .navbar-brand img {
-        max-height: 10em;
+        max-height: 6.3em;
     }
 
     .hero_callouts {

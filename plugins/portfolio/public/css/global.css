@@ -1,7 +1,20 @@
+a:hover, a:focus {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+h1 > a:hover, h1 > a:focus {
+    color: #000000;
+}
+
+h1 > a {
+    color: #CB1A1C;
+}
+
 .redIcon {
     background: none !important;
     text-shadow: none;
-    color: #cc0000;
+    color: #CB1A1C;
     opacity: 1;
 }
 
@@ -10,7 +23,7 @@
 }
 
 .redBorder {
-    border: 1px solid #cc0000 !important;
+    border: 1px solid #CB1A1C !important;
 }
 
 .noBottom {
@@ -35,7 +48,7 @@
 }
 
 .article {
-    border: solid 1px #cc0000;
+    border: solid 1px #CB1A1C;
     padding: 1em;
 
     -webkit-box-shadow: -10px 0px 0px 0px rgba(0,0,0,0.75);
@@ -44,19 +57,66 @@
 }
 
 .actionbtn {
-  background-color: #cc0000;
+  background-color: #CB1A1C;
   color: #ffffff;
   padding: 0.6em;
   float: right;
   margin: 5px;
 }
 
+.actionbtn:hover {
+  background-color: #000000;
+  color: #ffffff;
+}
+
 .navbar-default .navbar-nav>.active>a {
-    background-color: #cc0000;
+    background-color: #CB1A1C;
     color: #ffffff;
 }
 
 .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
-    background-color: #cc0000;
+    background-color: #CB1A1C;
     color: #000000;
+}
+
+.navbar-brand {
+    padding: 0em;
+}
+
+@media (max-width: 991px) {
+    .navbar-brand {
+        padding: 0.4em;
+        padding-top: 0em;
+    }
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+    background-color: #CB1A1C;
+}
+
+.topic_label {
+    background: #CB1A1C;
+}
+
+.topic_label:hover {
+    background: #000000;
+}
+
+.col-sm-3 > .nav>li>a {
+    background-color: #CB1A1C;
+    color: #FFFFFF;
+}
+
+.nav>li>a:hover, .nav>li>a:focus {
+    background-color: #000000;
+}
+
+.hero_callouts h3 a:hover {
+    color: #CB1A1C;
+}
+
+footer {
+    background: rgba(0, 0, 0, .75);
+    padding: 2em;
+    color: #FFFFFF;
 }
