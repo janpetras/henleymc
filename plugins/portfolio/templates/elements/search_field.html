@@ -1,11 +1,11 @@
-<div>
-<eui-searchbox field="'headline'"></eui-searchbox>
-<eui-singleselect field="'meta_keywords'" size="5"></eui-singleselect>
-            <h1>Results</h1>
-                <ul>
-                    <li ng-repeat="doc in indexVM.results.hits.hits">
-                        {{doc._source | json | limitTo: 500}} <!-- OPTIONAL: display more meaningful data instead of json -->
+<div class="row">
+     <h3 class="title quickFind">Quick find</h3>
+        <eui-searchbox field="'headline'" class="quickFind"></eui-searchbox>
+        <h3 class="noTop">&nbsp;Courses found</h3>
+                <ul class="quickFind-list">
+                    <li ng-repeat="doc in indexVM.results.hits.hits|limitTo:5">
+                        <a href="article/{{doc._source.url}}">&nbsp;{{doc._source.headline | limitTo: 300}}</a>
                     </li>
                 </ul>
-                <eui-simple-paging></eui-simple-paging>
+                <!--<eui-simple-paging></eui-simple-paging>-->
 </div>

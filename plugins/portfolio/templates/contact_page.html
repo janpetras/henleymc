@@ -2,12 +2,11 @@
     <div class="container">
         <div class="row">
             <div class="col-xs-12">
-                ^layout^
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-xs-12">
-                ^layout^
+                    <div style="overflow:hidden;height:400px;width:1280px;">
+        <div id="gmap_canvas" style="height:400px;width:1280px;"></div>
+        <style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
+        <a class="google-map-code" href="http://wptiger.com" id="get-map-data">wptiger.com</a>
+</div>
             </div>
         </div>
     </div>
@@ -15,11 +14,6 @@
 
 
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?sensor=false"></script>
-    <div style="overflow:hidden;height:400px;width:1280px;">
-        <div id="gmap_canvas" style="height:400px;width:1280px;"></div>
-        <style>#gmap_canvas img{max-width:none!important;background:none!important}</style>
-        <a class="google-map-code" href="http://wptiger.com" id="get-map-data">wptiger.com</a>
-</div>
 <script type="text/javascript"> 
     function init_map(){var myOptions = {zoom:17,center:new google.maps.LatLng(40.805478,-73.96522499999998),
             mapTypeId: google.maps.MapTypeId.ROADMAP};

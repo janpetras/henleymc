@@ -62,6 +62,7 @@ h1 > a {
   padding: 0.6em;
   float: right;
   margin: 5px;
+  margin-top: 35px;
 }
 
 .actionbtn:hover {
@@ -119,4 +120,105 @@ footer {
     background: rgba(0, 0, 0, .75);
     padding: 2em;
     color: #FFFFFF;
+}
+
+.title {
+    text-align: center;
+    background-color: #cc0000;
+    color: #ffffff;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.subnote {
+    font-size: 10px;
+    text-align: right;
+}
+
+.spacer {
+    margin-top: 30px;
+}
+
+.redHollow {
+    background-color: rgba(0, 0, 0, .75);
+    color: #ffffff;
+    border: none;
+}
+
+.redHollow:hover, .redHollow:active, .redHollow:focus {
+    background-color: #cc0000;
+    color: #ffffff;
+    border: none;
+}
+
+.pic {
+    max-width: 300px;
+  float: left;
+  overflow: hidden;
+}
+
+/*B&W*/
+.bw {
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.bw:hover {
+  -webkit-filter: grayscale(100%);
+}
+
+.photoTitle {
+    border-top: 1px solid #cc0000;
+    border-bottom: 1px solid #cc0000;
+    margin-bottom: 10px;
+}
+
+.noPad {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.mTop {
+    margin-top: 10px;
+}
+
+.noTop {
+    margin-top: 0px;
+}
+
+.quickFind > input {
+    width: 100%;
+    height: 30px;
+    border: solid 1px #cc0000;
+    margin-bottom: 15px;
+}
+
+.quickFind {
+    margin-bottom: 5px;
+}
+
+.quickFind-list {
+    list-style: none;
+    padding: 0px;
+    min-height: 150px;
+}
+
+ul.quickFind-list :nth-child(2n) {
+    background-color: #f4cccc;
+}
+
+ul.quickFind-list > li {
+    background-color: #f2f2f2;
+    padding: 5px;
+}
+
+.quickFind-list > li > a {
+    color: #000000;
+}
+
+.quickFind-list > li > a:hover {
+    color: #cc0000;
 }

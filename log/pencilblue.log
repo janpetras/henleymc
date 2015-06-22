@@ -1850,3 +1850,1151 @@
 {"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-05-29T10:40:40.296Z"}
 {"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-05-29T10:40:40.346Z"}
 {"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-05-29T10:40:40.666Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-02T07:54:13.334Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-02T07:54:18.056Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-02T07:54:18.255Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-02T07:54:20.085Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-02T07:54:20.195Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-02T07:54:20.932Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-02T07:54:21.028Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-02T07:54:21.078Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-02T07:54:21.428Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-09T14:12:56.888Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-09T14:13:05.194Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-09T14:13:07.855Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-09T14:13:14.194Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-09T14:13:14.307Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-09T14:13:15.120Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-09T14:13:15.160Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-09T14:13:15.188Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-09T14:13:15.513Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T09:39:47.154Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T09:39:52.765Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T09:39:52.972Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T09:39:54.768Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T09:39:54.881Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T09:39:55.628Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T09:39:55.669Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T09:39:55.730Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T09:39:56.062Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:01:24.970Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:01:30.314Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:01:30.511Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:01:32.327Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:01:32.440Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:01:32.846Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:01:32.859Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:01:32.862Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:01:33.182Z"}
+{"level":"error","message":"RequestHandler: An error occurred during controller execution. URL=[GET:/img/accreditations/cmi_logo.jpg] ROUTE=undefined\nTypeError: Cannot read property 'length' of undefined\n    at Function.ClientJsModule.ClientJs.getAngularController (/Users/ian/GitHub/henley/include/client_js.js:41:20)\n    at /Users/ian/GitHub/henley/plugins/pencilblue/controllers/error/404.js:60:60\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:340:13\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:254:17\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:157:25\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:251:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:615:34\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:318:28\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:610:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:249:17","timestamp":"2015-06-18T10:01:41.051Z"}
+{"level":"error","message":"RequestHandler: An error occurred during controller execution. URL=[GET:/img/accreditations/cmi_logo.jpg] ROUTE=undefined\nTypeError: Cannot read property 'length' of undefined\n    at Function.ClientJsModule.ClientJs.getAngularController (/Users/ian/GitHub/henley/include/client_js.js:41:20)\n    at /Users/ian/GitHub/henley/plugins/pencilblue/controllers/error/404.js:60:60\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:340:13\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:254:17\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:157:25\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:251:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:615:34\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:318:28\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:610:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:249:17","timestamp":"2015-06-18T10:01:54.334Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:02:43.199Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:02:43.457Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:02:43.640Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:02:44.847Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:02:44.956Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:02:45.254Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:02:45.255Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:02:45.257Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:02:45.586Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:04:41.475Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:04:41.744Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:04:41.954Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:04:43.215Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:04:43.327Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:04:43.634Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:04:43.635Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:04:43.637Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:04:43.976Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:05:58.992Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:05:59.247Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:05:59.454Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:06:00.665Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:06:00.776Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:06:01.081Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:06:01.082Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:06:01.084Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:06:01.423Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:06:30.548Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:06:30.829Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:06:31.030Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:06:32.280Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:06:32.392Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:06:32.699Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:06:32.700Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:06:32.703Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:06:33.022Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:08:57.444Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:08:57.694Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:08:57.901Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:08:59.166Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:08:59.278Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:08:59.583Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:08:59.585Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:08:59.587Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:08:59.914Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:09:43.514Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:09:43.789Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:09:44.000Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:09:45.209Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:09:45.325Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:09:45.625Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:09:45.626Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:09:45.628Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:09:45.943Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:10:19.018Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:10:19.271Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:10:19.466Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:10:20.677Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:10:20.787Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:10:21.085Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:10:21.087Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:10:21.089Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:10:21.387Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:11:25.981Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:11:26.251Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:11:26.442Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:11:27.705Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:11:27.829Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:11:28.134Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:11:28.136Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:11:28.138Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:11:28.458Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:11:51.931Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:11:52.189Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:11:52.393Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:11:53.640Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:11:53.750Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:11:54.051Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:11:54.052Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:11:54.054Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:11:54.382Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:13:49.068Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:13:54.812Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:13:54.999Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:13:56.696Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:13:56.806Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:13:57.433Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:13:57.484Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:13:57.501Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:13:57.837Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:15:06.262Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:15:13.647Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:15:13.843Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:15:15.476Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:15:15.599Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:15:16.270Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:15:16.271Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:15:16.274Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:15:16.606Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:16:06.542Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:16:13.580Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:16:13.789Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:16:15.461Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:16:15.577Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:16:16.184Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:16:16.185Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:16:16.188Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:16:16.502Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:18:02.326Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:18:10.325Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:18:10.528Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:18:12.133Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:18:12.241Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:18:12.802Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:18:12.865Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:18:12.882Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:18:13.206Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:18:50.007Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:18:55.173Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:18:55.381Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:18:56.832Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:18:56.941Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:18:57.527Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:18:57.579Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:18:57.595Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:18:57.915Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:20:01.678Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:20:11.111Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:20:11.324Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:20:13.201Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:20:13.312Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:20:14.276Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:20:14.317Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:20:14.370Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:20:14.697Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:22:31.564Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:22:37.874Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:22:38.074Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:22:41.516Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:22:41.625Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:22:42.529Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:22:42.625Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:22:42.686Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:22:43.024Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:28:24.396Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:28:29.987Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:28:30.186Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:28:32.163Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:28:32.272Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:28:32.938Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:28:32.967Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:28:32.983Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:28:33.307Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:34:31.494Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:34:37.157Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:34:37.361Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:34:39.341Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:34:39.453Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:34:40.068Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:34:40.099Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:34:40.115Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:34:40.454Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:35:46.265Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:35:53.045Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:35:53.236Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:35:54.885Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:35:54.994Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:35:55.562Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:35:55.681Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:35:55.697Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:35:56.029Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:38:05.484Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:38:09.966Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:38:10.178Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:38:11.936Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:38:12.046Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:38:12.615Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:38:12.722Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:38:12.749Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:38:13.085Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:41:09.781Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:41:16.339Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:41:16.539Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:41:18.840Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:41:18.949Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:41:19.658Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:41:19.733Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:41:19.816Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:41:20.130Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:45:03.741Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T10:45:11.053Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T10:45:11.287Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T10:45:13.725Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T10:45:13.834Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T10:45:14.704Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T10:45:14.741Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T10:45:14.752Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T10:45:15.071Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:01:22.774Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:01:31.824Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:01:32.025Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:01:34.224Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:01:34.343Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:01:35.306Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:01:35.380Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:01:35.408Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:01:35.742Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:06:02.724Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:06:07.729Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:06:07.993Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:06:10.017Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:06:10.126Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:06:10.688Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:06:10.785Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:06:10.801Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:06:11.114Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:06:43.927Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:06:50.119Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:06:50.345Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:06:52.653Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:06:52.837Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:06:53.614Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:06:53.776Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:06:53.793Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:06:54.125Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:08:36.389Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:08:43.838Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:08:44.048Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:08:46.302Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:08:46.419Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:08:47.130Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:08:47.272Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:08:47.289Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:08:47.629Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:09:24.647Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:09:29.028Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:09:29.231Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:09:30.915Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:09:31.030Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:09:31.523Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:09:31.559Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:09:31.562Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:09:31.876Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:18:26.104Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:18:34.747Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:18:37.992Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:18:43.331Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:18:43.439Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:18:44.189Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:18:44.331Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:18:44.370Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:18:44.677Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:22:01.682Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:22:11.616Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:22:11.816Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:22:14.876Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:22:14.987Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:22:15.566Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:22:15.654Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:22:15.694Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:22:16.011Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:28:28.485Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:28:34.616Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:28:34.856Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:28:37.078Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:28:37.189Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:28:38.333Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:28:38.422Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:28:38.450Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:28:38.789Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:34:05.705Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:34:05.964Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:34:06.171Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:34:07.752Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:34:07.864Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:34:08.323Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:34:08.397Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:34:08.435Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:34:08.768Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:37:50.096Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:37:52.391Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:37:52.586Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:37:56.217Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:37:56.326Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:37:56.915Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:37:56.978Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:37:57.039Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:37:57.348Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:39:00.329Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:39:00.588Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:39:00.792Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:39:02.023Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:39:02.134Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:39:02.518Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:39:02.533Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:39:02.536Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:39:02.849Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:41:51.303Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:41:51.574Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:41:51.761Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:41:53.036Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:41:53.149Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:41:53.468Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:41:53.470Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:41:53.472Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:41:53.796Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:42:32.287Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T11:42:32.809Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T11:42:33.019Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T11:42:34.225Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T11:42:34.335Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T11:42:34.637Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T11:42:34.638Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T11:42:34.640Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T11:42:35.028Z"}
+{"level":"error","message":"RequestHandler: An error occurred during controller execution. URL=[GET:/section/search] ROUTE={\"path\":\"section/:customUrl\",\"pattern\":\"^/section/[^/]+[/]{0,1}$\",\"path_vars\":{\"customUrl\":2},\"expression\":{},\"themes\":{\"pencilblue\":{\"GET\":{\"method\":\"GET\",\"path\":\"/section/:customUrl\",\"auth_required\":false,\"content_type\":\"text/html\"}},\"portfolio\":{\"GET\":{\"method\":\"GET\",\"path\":\"/section/:customUrl\",\"auth_required\":false,\"content_type\":\"text/html\"}}}}\nTypeError: Cannot read property 'length' of undefined\n    at Function.ClientJsModule.ClientJs.getAngularController (/Users/ian/GitHub/henley/include/client_js.js:41:20)\n    at /Users/ian/GitHub/henley/plugins/pencilblue/controllers/error/404.js:60:60\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:340:13\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:254:17\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:157:25\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:251:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:615:34\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:318:28\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:610:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:249:17","timestamp":"2015-06-18T11:42:57.260Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:00:43.678Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:00:49.063Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:00:49.255Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:00:51.492Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:00:51.614Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:00:52.121Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:00:52.172Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:00:52.236Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:00:52.559Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:01:20.780Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:01:25.335Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:01:25.525Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:01:27.206Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:01:27.316Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:01:27.933Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:01:27.934Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:01:27.936Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:01:28.268Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:04:23.402Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:04:31.100Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:04:31.293Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:04:33.239Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:04:33.408Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:04:34.257Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:04:34.419Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:04:34.446Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:04:34.774Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:05:24.762Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:05:26.434Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:05:26.640Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:05:28.288Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:05:28.402Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:05:29.103Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:05:29.122Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:05:29.193Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:05:29.519Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:06:26.132Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:06:31.235Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:06:31.435Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:06:33.086Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:06:33.196Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:06:33.896Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:06:33.926Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:06:34.020Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:06:34.348Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:10:54.048Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:11:01.326Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:11:01.520Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:11:03.286Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:11:03.391Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:11:04.290Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:11:04.409Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:11:04.425Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:11:04.729Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:14:00.092Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:14:04.886Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:14:05.080Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:14:06.881Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:14:07.003Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:14:07.635Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:14:07.675Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:14:07.747Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:14:08.064Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:17:20.627Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:17:29.443Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:17:30.437Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:17:36.160Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:17:36.270Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:17:37.040Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:17:37.143Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:17:37.226Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:17:37.549Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:20:28.738Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:20:44.639Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:20:45.029Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:20:47.426Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:20:47.563Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:20:48.358Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:20:48.455Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:20:48.504Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:20:48.825Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:24:12.257Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:24:12.526Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:24:12.725Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:24:14.012Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:24:14.122Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:24:14.422Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:24:14.423Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:24:14.426Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:24:14.745Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:24:50.274Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:24:50.532Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:24:50.726Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:24:51.961Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:24:52.071Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:24:52.380Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:24:52.381Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:24:52.384Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:24:52.714Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:25:13.389Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:25:17.403Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:25:17.787Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:25:19.536Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:25:19.657Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:25:20.264Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:25:20.338Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:25:20.354Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:25:20.701Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:33:26.173Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:33:31.746Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:33:31.939Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:33:33.958Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:33:34.068Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:33:34.763Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:33:34.878Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:33:34.895Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:33:35.239Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:34:50.568Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:34:58.183Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:34:58.383Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:34:59.987Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:35:00.167Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:35:00.709Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:35:00.750Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:35:00.777Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:35:01.114Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:35:43.792Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:35:49.553Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:35:49.753Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:35:51.472Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:35:51.583Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:35:52.234Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:35:52.236Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:35:52.238Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:35:52.575Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:36:36.674Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:36:45.375Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:36:45.573Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:36:47.773Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:36:47.887Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:36:48.694Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:36:48.745Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:36:48.828Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:36:49.143Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:38:37.970Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:38:44.742Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:38:44.944Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:38:47.609Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:38:47.719Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:38:48.345Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:38:48.441Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:38:48.458Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:38:48.766Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:39:59.407Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:40:07.736Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:40:07.935Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:40:10.310Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:40:10.424Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:40:11.083Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:40:11.146Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:40:11.196Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:40:11.514Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:44:41.258Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:44:47.916Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:44:48.142Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:44:50.485Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:44:50.600Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:44:51.223Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:44:51.307Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:44:51.682Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:44:52.004Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:49:07.273Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:49:13.057Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:49:13.258Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:49:15.315Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:49:15.424Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:49:16.218Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:49:16.356Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:49:16.412Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:49:16.760Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:50:39.302Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:50:47.080Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:50:47.276Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:50:48.806Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:50:48.921Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:50:49.894Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:50:49.928Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:50:49.945Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:50:50.253Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:56:53.112Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:57:01.723Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:57:01.927Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:57:04.348Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:57:04.460Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:57:05.377Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:57:05.484Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:57:05.523Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:57:05.839Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:58:59.920Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T12:59:05.676Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T12:59:05.891Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T12:59:07.659Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T12:59:07.771Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T12:59:08.728Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T12:59:08.814Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T12:59:08.864Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T12:59:09.191Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:00:32.192Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:00:41.569Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:00:41.764Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:00:44.261Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:00:44.369Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:00:45.145Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:00:45.264Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:00:45.292Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:00:45.608Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:02:11.032Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:02:18.111Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:02:18.308Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:02:20.403Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:02:20.513Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:02:21.140Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:02:21.214Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:02:21.242Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:02:21.563Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:03:25.058Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:03:29.747Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:03:29.962Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:03:32.287Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:03:32.398Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:03:33.022Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:03:33.074Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:03:33.090Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:03:33.432Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:04:55.918Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:05:05.084Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:05:05.401Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:05:08.329Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:05:08.445Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:05:09.549Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:05:09.736Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:05:09.819Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:05:10.150Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:07:09.066Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:07:09.324Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:07:09.536Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:07:11.153Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:07:11.268Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:07:11.762Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:07:11.763Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:07:11.765Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:07:12.100Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:09:36.828Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:09:45.201Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:09:45.402Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:09:47.597Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:09:47.710Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:09:48.267Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:09:48.430Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:09:48.447Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:09:48.764Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:15:39.849Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:16:11.902Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:16:19.203Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:16:59.163Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:16:59.271Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:17:00.291Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:17:00.367Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:17:00.629Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:17:01.040Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:18:07.577Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:18:13.510Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:18:13.710Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:18:15.775Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:18:15.900Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:18:16.718Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:18:16.771Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:18:16.877Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:18:17.331Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:19:14.731Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:19:15.018Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:19:15.238Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:19:16.491Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:19:16.610Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:19:16.917Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:19:16.919Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:19:16.922Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:19:17.264Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:20:24.808Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-18T13:20:25.067Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-18T13:20:25.270Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-18T13:20:26.488Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-18T13:20:26.604Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-18T13:20:26.906Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-18T13:20:26.907Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-18T13:20:26.910Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-18T13:20:27.239Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:12:56.648Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T12:13:05.422Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:13:05.735Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T12:13:08.785Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T12:13:08.970Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T12:13:09.712Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T12:13:09.775Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T12:13:09.791Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T12:13:10.123Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:13:46.124Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T12:13:46.395Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:13:46.597Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T12:13:47.818Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T12:13:47.931Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T12:13:48.245Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T12:13:48.246Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T12:13:48.249Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T12:13:48.652Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:16:12.207Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T12:16:19.064Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:16:19.340Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T12:16:21.174Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T12:16:21.292Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T12:16:22.005Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T12:16:22.056Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T12:16:22.083Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T12:16:22.415Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:17:58.548Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T12:17:59.898Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:18:00.099Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T12:18:01.726Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T12:18:01.837Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T12:18:02.478Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T12:18:02.629Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T12:18:02.657Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T12:18:02.977Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:24:33.764Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T12:24:43.253Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:24:44.287Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T12:24:48.431Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T12:24:48.545Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T12:24:49.262Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T12:24:49.459Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T12:24:49.475Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T12:24:49.832Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:26:47.486Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T12:26:54.406Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:26:54.615Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T12:26:57.473Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T12:26:57.589Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T12:26:58.564Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T12:26:58.647Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T12:26:58.663Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T12:26:58.982Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:28:21.737Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T12:28:26.479Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:28:26.684Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T12:28:29.392Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T12:28:29.501Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T12:28:30.280Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T12:28:30.376Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T12:28:30.392Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T12:28:30.718Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:29:17.908Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T12:29:26.476Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T12:29:26.690Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T12:29:28.525Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T12:29:28.637Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T12:29:29.462Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T12:29:29.580Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T12:29:29.685Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T12:29:30.015Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:51:13.914Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T13:51:25.046Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:51:25.242Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T13:51:28.859Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T13:51:29.005Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T13:51:29.523Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T13:51:29.597Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T13:51:29.635Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T13:51:29.976Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:52:35.796Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T13:52:42.013Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:52:42.224Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T13:52:44.217Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T13:52:44.336Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T13:52:44.928Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T13:52:45.057Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T13:52:45.073Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T13:52:45.392Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:57:47.674Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T13:57:57.132Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:57:58.486Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T13:58:01.239Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T13:58:01.350Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T13:58:02.516Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T13:58:02.546Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T13:58:02.562Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T13:58:02.894Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:59:00.072Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T13:59:00.343Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:59:00.549Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T13:59:02.651Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T13:59:02.763Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T13:59:03.432Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T13:59:03.434Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T13:59:03.437Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T13:59:03.764Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:59:27.451Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T13:59:27.726Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T13:59:27.936Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T13:59:29.275Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T13:59:29.383Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T13:59:29.686Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T13:59:29.687Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T13:59:29.690Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T13:59:30.024Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T14:00:50.421Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T14:00:50.690Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T14:00:50.899Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T14:00:52.174Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T14:00:52.286Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T14:00:52.591Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T14:00:52.593Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T14:00:52.595Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T14:00:52.921Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T14:02:00.069Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T14:02:00.352Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T14:02:00.571Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T14:02:01.850Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T14:02:01.960Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T14:02:02.260Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T14:02:02.261Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T14:02:02.263Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T14:02:02.581Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T14:05:51.520Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T14:05:59.837Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T14:06:05.087Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T14:06:11.541Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T14:06:11.658Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T14:06:12.218Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T14:06:12.437Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T14:06:12.525Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T14:06:12.847Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T14:11:50.289Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T14:12:01.361Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T14:12:01.773Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T14:12:04.971Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T14:12:05.085Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T14:12:05.718Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T14:12:05.795Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T14:12:05.828Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T14:12:06.164Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T15:22:09.057Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-19T15:22:15.851Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-19T15:22:18.846Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-19T15:22:25.336Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-19T15:22:25.467Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-19T15:22:26.021Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-19T15:22:26.107Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-19T15:22:26.178Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-19T15:22:26.489Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:00:51.870Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:00:58.342Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:00:58.554Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:01:00.706Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:01:00.827Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:01:01.389Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:01:01.518Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:01:01.547Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:01:02.082Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:01:29.218Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:01:29.484Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:01:29.700Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:01:30.920Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:01:31.027Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:01:31.324Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:01:31.325Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:01:31.328Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:01:31.643Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:06:19.682Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:06:27.330Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:06:28.105Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:06:30.121Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:06:30.234Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:06:30.911Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:06:31.040Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:06:31.103Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:06:31.419Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:07:36.550Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:07:36.866Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:07:37.090Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:07:38.331Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:07:38.458Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:07:38.773Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:07:38.774Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:07:38.777Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:07:39.113Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:13:42.612Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:13:51.965Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:13:52.197Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:13:54.382Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:13:54.491Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:13:55.360Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:13:55.437Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:13:55.544Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:13:55.854Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:15:55.962Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:15:56.239Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:15:56.452Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:15:58.163Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:15:58.276Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:15:58.942Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:15:58.944Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:15:58.991Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:15:59.308Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:16:24.733Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:16:24.993Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:16:25.199Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:16:26.814Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:16:26.923Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:16:27.450Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:16:27.452Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:16:27.454Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:16:27.791Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:18:03.184Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:18:07.849Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:18:08.044Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:18:12.755Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:18:12.877Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:18:13.526Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:18:13.599Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:18:13.661Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:18:13.971Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:19:09.778Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:19:19.599Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:19:19.802Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:19:21.761Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:19:21.886Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:19:22.608Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:19:22.660Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:19:22.811Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:19:23.128Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:20:18.283Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:20:22.848Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:20:23.045Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:20:25.199Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:20:25.310Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:20:25.939Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:20:25.986Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:20:26.204Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:20:26.537Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:21:30.098Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:21:38.383Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:21:38.603Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:21:40.922Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:21:41.035Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:21:41.658Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:21:41.713Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:21:41.787Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:21:42.101Z"}
+{"level":"error","message":"RequestHandler: An error occurred during controller execution. URL=[GET:/] ROUTE={\"path\":\"\",\"pattern\":\"^/[/]{0,1}$\",\"path_vars\":{},\"expression\":{},\"themes\":{\"pencilblue\":{\"GET\":{\"method\":\"GET\",\"path\":\"/\",\"access_level\":0,\"auth_required\":false,\"content_type\":\"text/html\"}},\"portfolio\":{\"GET\":{\"method\":\"GET\",\"path\":\"/\",\"auth_required\":false,\"content_type\":\"text/html\"}}}}\nTypeError: undefined is not a function\n    at /Users/ian/GitHub/henley/plugins/pencilblue/controllers/index.js:99:114\n    at TemplateService.handleReplacement (/Users/ian/GitHub/henley/include/service/entities/template_service.js:471:13)\n    at doFlagProcessing (/Users/ian/GitHub/henley/include/service/entities/template_service.js:374:22)\n    at TemplateService.processFlag (/Users/ian/GitHub/henley/include/service/entities/template_service.js:408:9)\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:322:26\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:610:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:249:17\n    at iterate (/Users/ian/GitHub/henley/node_modules/async/lib/async.js:149:13)\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:160:25\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:251:21","timestamp":"2015-06-22T08:21:43.421Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:22:14.024Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:22:21.199Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:22:21.401Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:22:23.017Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:22:23.142Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:22:23.746Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:22:23.748Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:22:23.751Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:22:24.083Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:23:02.184Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:23:10.003Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:23:10.331Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:23:12.101Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:23:12.218Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:23:12.842Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:23:13.031Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:23:13.137Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:23:13.468Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:27:33.689Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:27:42.621Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:27:43.021Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:27:45.119Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:27:45.236Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:27:46.505Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:27:46.594Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:27:46.700Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:27:47.023Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:28:15.334Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:28:15.641Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:28:15.831Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:28:17.040Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:28:17.162Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:28:17.472Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:28:17.473Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:28:17.476Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:28:17.803Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:30:23.476Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:30:23.748Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:30:23.953Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:30:25.448Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:30:25.572Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:30:25.885Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:30:25.960Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:30:25.963Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:30:26.307Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:30:46.451Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:30:46.718Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:30:46.944Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:30:48.216Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:30:48.343Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:30:48.640Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:30:48.641Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:30:48.644Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:30:48.950Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:31:06.197Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:31:06.465Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:31:06.676Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:31:07.913Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:31:08.023Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:31:08.321Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:31:08.322Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:31:08.324Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:31:08.641Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:33:22.337Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:33:30.237Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:33:30.436Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:33:32.604Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:33:32.716Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:33:33.288Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:33:33.351Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:33:33.413Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:33:33.759Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:35:17.956Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:35:23.031Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:35:23.236Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:35:24.722Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:35:24.832Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:35:25.507Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:35:25.547Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:35:25.576Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:35:25.890Z"}
+{"level":"error","message":"RequestHandler: An error occurred during controller execution. URL=[GET:/effective-recruitment-and-job-analysis] ROUTE=undefined\nTypeError: Cannot read property 'length' of undefined\n    at Function.ClientJsModule.ClientJs.getAngularController (/Users/ian/GitHub/henley/include/client_js.js:41:20)\n    at /Users/ian/GitHub/henley/plugins/pencilblue/controllers/error/404.js:60:60\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:340:13\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:254:17\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:157:25\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:251:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:615:34\n    at /Users/ian/GitHub/henley/include/service/entities/template_service.js:318:28\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:610:21\n    at /Users/ian/GitHub/henley/node_modules/async/lib/async.js:249:17","timestamp":"2015-06-22T08:35:39.823Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:36:33.136Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:36:38.074Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:36:38.271Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:36:40.346Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:36:40.460Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:36:41.142Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:36:41.175Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:36:41.315Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:36:41.639Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:37:23.841Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:37:29.665Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:37:29.870Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:37:32.093Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:37:32.201Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:37:32.968Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:37:33.045Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:37:33.096Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:37:33.409Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:42:27.485Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:42:34.745Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:42:36.384Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:42:44.820Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:42:44.942Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:42:46.758Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:42:47.051Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:42:47.284Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:42:47.605Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:50:32.551Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:50:42.017Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:50:42.220Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:50:44.222Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:50:44.335Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:50:45.013Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:50:45.066Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:50:45.384Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:50:45.717Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:51:09.298Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T08:51:19.170Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T08:51:23.954Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T08:51:34.939Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T08:51:35.059Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T08:51:35.747Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T08:51:35.825Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T08:51:35.876Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T08:51:36.218Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:15:53.445Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T09:16:01.252Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:16:05.534Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T09:16:13.491Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T09:16:13.602Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T09:16:14.293Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T09:16:14.415Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T09:16:14.555Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T09:16:14.882Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:17:19.005Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T09:17:23.540Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:17:23.886Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T09:17:26.505Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T09:17:26.615Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T09:17:27.313Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T09:17:27.420Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T09:17:27.482Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T09:17:27.809Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:18:18.788Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T09:18:23.819Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:18:24.030Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T09:18:26.331Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T09:18:26.440Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T09:18:26.983Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T09:18:27.046Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T09:18:27.086Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T09:18:27.399Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:19:51.115Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T09:19:57.441Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:19:58.880Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T09:20:03.763Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T09:20:03.887Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T09:20:04.511Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T09:20:04.542Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T09:20:04.582Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T09:20:04.903Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:21:44.368Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T09:21:54.202Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:21:57.491Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T09:22:03.772Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T09:22:03.895Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T09:22:04.653Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T09:22:04.728Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T09:22:04.790Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T09:22:05.109Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:23:05.173Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T09:23:14.415Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:23:14.609Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T09:23:16.734Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T09:23:16.844Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T09:23:17.691Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T09:23:17.788Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T09:23:17.873Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T09:23:18.182Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:24:05.054Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T09:24:10.226Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T09:24:11.832Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T09:24:14.942Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T09:24:15.062Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T09:24:15.850Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T09:24:16.037Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T09:24:16.121Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T09:24:16.438Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T13:42:43.332Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T13:42:52.554Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T13:42:52.758Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T13:42:54.562Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T13:42:54.682Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T13:42:55.581Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T13:42:55.603Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T13:42:55.676Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T13:42:56.035Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T13:58:58.690Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T13:59:07.442Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T13:59:07.640Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T13:59:09.492Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T13:59:09.602Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T13:59:10.297Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T13:59:10.449Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T13:59:10.511Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T13:59:10.832Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T13:59:54.432Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T13:59:54.692Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T13:59:54.900Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T13:59:56.132Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T13:59:56.243Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T13:59:56.545Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T13:59:56.547Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T13:59:56.549Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T13:59:56.867Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T14:02:25.702Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T14:02:30.440Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T14:02:30.632Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T14:02:32.460Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T14:02:32.569Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T14:02:33.167Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T14:02:33.274Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T14:02:33.358Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T14:02:33.702Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T14:04:28.546Z"}
+{"level":"info","message":"System[M]: 1 workers spawned. Listening for disconnects.","timestamp":"2015-06-22T14:04:37.842Z"}
+{"level":"info","message":"SystemStartup: Log Level is: info","timestamp":"2015-06-22T14:04:41.568Z"}
+{"level":"info","message":"PencilBlue: Ensuring indices...","timestamp":"2015-06-22T14:04:50.535Z"}
+{"level":"info","message":"PencilBlue: Henley Management Centre running at site root [http://localhost:8080] on port [8080]","timestamp":"2015-06-22T14:04:50.649Z"}
+{"level":"info","message":"PluginService: Initialized plugin Henley Theme (portfolio). RESULT=[true]","timestamp":"2015-06-22T14:04:51.517Z"}
+{"level":"warn","message":"PluginService: The plugin, Contact Form does not specify pb version.","timestamp":"2015-06-22T14:04:51.583Z"}
+{"level":"info","message":"PluginService: Initialized plugin Contact Form (contact-pencilblue). RESULT=[true]","timestamp":"2015-06-22T14:04:51.679Z"}
+{"level":"info","message":"PencilBlue: Ready to run!","timestamp":"2015-06-22T14:04:52.020Z"}
