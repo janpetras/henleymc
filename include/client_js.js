@@ -42,7 +42,7 @@ module.exports = function ClientJsModule(pb) {
             modules = ['ngRoute', 'elasticui'];
         }
 
-        var angularController = "var pencilblueApp = angular.module('pencilblueApp', " + JSON.stringify(modules) + ").constant('euiHost', 'https://main:bikostwq7fkmhpa9nd24gjxnazeehsyv@kili-eu-west-1.searchly.com')";
+        var angularController = "var pencilblueApp = angular.module('pencilblueApp', " + JSON.stringify(modules) + ").constant('euiHost', 'https://main:jqrnsaklg2qyfv7nnw8aqjvvetujdipz@kili-eu-west-1.searchly.com')";
         if(!util.isNullOrUndefined(directiveJS)) {
             angularController += '.directive("onFinishRender", function($timeout){return {restrict: "A",link: function(scope, element, attr){if (scope.$last === true){$timeout(function(){' + directiveJS + '})}}}})';
         }

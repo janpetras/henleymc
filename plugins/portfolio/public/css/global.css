@@ -243,14 +243,14 @@ ul.quickFind-list > li {
     margin-top: 15%;
 }
 
-#booking {
+/* #booking {
     border: solid 1px #CB1A1C;
     padding: 1em;
 
     -webkit-box-shadow: -10px 0px 0px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: -10px 0px 0px 0px rgba(0,0,0,0.75);
     box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.75);
-}
+} */
 
 .hideBook {
     margin: 20px 0px 20px 0px;
@@ -318,4 +318,29 @@ ul.quickFind-list > li {
 
 .widthBTN {
     width: 30% !important;
+}
+
+.searchby {
+    color: #575757;
+    font-size: 11px;
+}
+
+.sideFind {
+    text-transform: capitalize;
+}
+
+.sideFind > ul > li > label > span > a {
+    color: #000000;
+}
+
+.sideFind > ul > li > label > span > a:hover {
+    color: #CB1A1C;
+}
+
+.facet-remove {
+    color: #CB1A1C !important;
+}
+
+.facet-remove:hover {
+    color: #000000 !important;
 }
