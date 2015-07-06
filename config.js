@@ -1,18 +1,18 @@
 module.exports = {
     "siteName": "Henley Management Centre",
-    "siteRoot": "http://localhost:8080",
+    "siteRoot": "/",
     "logging": {
         "level": "info"
     },
     "db": {
         "type":"mongo",
         "servers": [
-          "ds031902.mongolab.com:31902"
+          "ds039251.mongolab.com:39251"
         ],
-        "name": "henley",
+        "name": "henley_db",
         "authentication": {
             "un": "ian",
-            "pw": "millenium"
+            "pw": "millenium20"
         },
         "writeConcern": 1
     },

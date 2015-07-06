@@ -1,11 +1,34 @@
 <div id="article_^article_id^" class="article" article-index="^article_index^">
-    <h1>^article_headline^</h1>
+    <h1 id="coursetitle">^article_headline^</h1>
     <h3 style="^article_subheading_display^">^article_subheading^</h3>
+    ^tmp_elements=book_now_inline^
     <div class="article_body">
         ^tmp_elements=article=byline^
-        <div class="timestamp" style="^article_timestamp_display^">^article_timestamp^</div>
+        <div class="timestamp" style="^article_timestamp_display^">Start dates: ^article_timestamp^ / ^article_timestamp2^</div>
         ^article_layout^
     </div>
     ^comments^
     <div class="spacer"></div>
 </div>
+
+<script>
+$("#book_^article_id^, #bookInside").click(function() {
+  title = $('div#article_^article_id^ > h1').text();
+  localStorage.setItem('course', title);
+});
+</script>
+
+<script>
+$("#requestCall").click(function() {
+  callback = 'I require more information regarding the course above. Please give me a call to discuss.'
+  title = $('div#article_^article_id^ > h1').text();
+  localStorage.setItem('callback', callback);
+  localStorage.setItem('course', title);
+});
+</script>
+
+<script type="text/javascript">
+if (window.location.href.indexOf("courses") != -1) {
+$(".hideBook").hide();
+}
+</script>

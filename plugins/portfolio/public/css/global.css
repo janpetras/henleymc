@@ -1,5 +1,5 @@
 a:hover, a:focus {
-    color: #ffffff;
+    color: #CB1A1C;
     text-decoration: none;
 }
 
@@ -70,6 +70,12 @@ h1 > a {
   color: #ffffff;
 }
 
+.actionbtnInside {
+    float: none;
+    margin: 0px;
+    padding: 0.6em 4em 0.6em 4em;
+}
+
 .navbar-default .navbar-nav>.active>a {
     background-color: #CB1A1C;
     color: #ffffff;
@@ -77,6 +83,10 @@ h1 > a {
 
 .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     background-color: #CB1A1C;
+    color: #000000;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
     color: #000000;
 }
 
@@ -221,4 +231,91 @@ ul.quickFind-list > li {
 
 .quickFind-list > li > a:hover {
     color: #cc0000;
+}
+
+.logo-nav {
+    background-color: #FCD465;
+    padding: 0.5em 2em 0.5em 2em;
+    margin-top: -15px;
+}
+
+.topDistance {
+    margin-top: 15%;
+}
+
+#booking {
+    border: solid 1px #CB1A1C;
+    padding: 1em;
+
+    -webkit-box-shadow: -10px 0px 0px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -10px 0px 0px 0px rgba(0,0,0,0.75);
+    box-shadow: -3px -3px 15px -3px rgba(0,0,0,0.75);
+}
+
+.hideBook {
+    margin: 20px 0px 20px 0px;
+}
+
+.headerborder {
+    height: 106px;
+    background-color: #FCD465;
+    border-bottom: 1px solid #cc0000;
+}
+
+@media all and (max-width: 991px) {
+    .logo-nav {
+        margin-top: 0px;
+    }
+}
+
+.mapContainer {
+    width: 100% !important;
+    padding: 7.5em 0em 0em 0em !important;
+}
+
+@media all and (max-width: 767px) {
+    .headerborder {
+        height: 20px;
+    }
+    .mapContainer {
+        width: 100% !important;
+        padding-top: 0em !important;
+    }
+}
+
+#gmap-canvas {
+    height:300px;
+    width:100%;
+}
+
+.gm-style-iw * {
+    display: block;
+    width: 100%;
+}
+
+.gm-style-iw h4, .gm-style-iw p {
+    margin: 0;
+    padding: 0;
+}
+
+.gm-style-iw a {
+    color: #4272db;
+}
+
+.contactIcons {
+    color: #FCD465;
+    font-size: 18px;
+}
+
+.btn-primary {
+    background-color: #CB1A1C !important;
+    border: none !important;
+}
+
+.btn-primary:hover {
+    background-color: #000000 !important;
+}
+
+.widthBTN {
+    width: 30% !important;
 }
