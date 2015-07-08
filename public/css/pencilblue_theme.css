@@ -161,8 +161,8 @@ form .error
 /* BUTTONS */
 .btn-primary
 {
-    background-color: #01AAD5;
-    border: 1px solid #01AAD5;
+    background-color: #CB1A1C;
+    border: 1px solid #CB1A1C;
 }
 
 .btn-default:hover, .btn-primary:hover, .btn-info:hover, .btn-success:hover, .btn-warning:hover
@@ -180,8 +180,8 @@ form .error
 
 .btn-info
 {
-    background-color: #B3B3B3;
-    border: 1px solid #B3B3B3;
+    background-color: #CB1A1C;
+    border: 1px solid #CB1A1C;
 }
 
 .btn-success

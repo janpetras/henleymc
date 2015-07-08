@@ -140,8 +140,8 @@ form .error
 /* BUTTONS */
 .btn-primary
 {
-    background-color: #cc0000;
-    border: 1px solid #cc0000;
+    background-color: #CB1A1C;
+    border: 1px solid #CB1A1C;
 }
 
 .btn-default:hover, .btn-primary:hover, .btn-info:hover, .btn-success:hover, .btn-warning:hover

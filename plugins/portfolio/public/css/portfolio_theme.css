@@ -225,7 +225,7 @@ footer {
     }
 
     .dropdown-menu>li>a {
-        text-align: right;
+        text-align: none;
     }
 
     .container.standalone {

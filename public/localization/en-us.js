@@ -222,6 +222,7 @@ var loc =
         LAYOUT: 'Layout',
         FRONTEND: 'Frontend plugins',
         BACKEND: 'Backend plugins',
+        GOBACKEND: 'Backend',
         INSTALL_PLUGIN: 'Install a plugin',
         USERS: 'Users',
         SETTINGS: 'Settings',

@@ -134,7 +134,7 @@ footer {
 
 .title {
     text-align: center;
-    background-color: #cc0000;
+    background-color: #CB1A1C;
     color: #ffffff;
     padding: 10px;
     margin-bottom: 20px;
@@ -156,7 +156,7 @@ footer {
 }
 
 .redHollow:hover, .redHollow:active, .redHollow:focus {
-    background-color: #cc0000;
+    background-color: #CB1A1C;
     color: #ffffff;
     border: none;
 }
@@ -181,8 +181,8 @@ footer {
 }
 
 .photoTitle {
-    border-top: 1px solid #cc0000;
-    border-bottom: 1px solid #cc0000;
+    border-top: 1px solid #CB1A1C;
+    border-bottom: 1px solid #CB1A1C;
     margin-bottom: 10px;
 }
 
@@ -202,7 +202,7 @@ footer {
 .quickFind > input {
     width: 100%;
     height: 30px;
-    border: solid 1px #cc0000;
+    border: solid 1px #CB1A1C;
     margin-bottom: 15px;
 }
 
@@ -230,7 +230,7 @@ ul.quickFind-list > li {
 }
 
 .quickFind-list > li > a:hover {
-    color: #cc0000;
+    color: #CB1A1C;
 }
 
 .logo-nav {
@@ -259,7 +259,7 @@ ul.quickFind-list > li {
 .headerborder {
     height: 106px;
     background-color: #FCD465;
-    border-bottom: 1px solid #cc0000;
+    border-bottom: 1px solid #CB1A1C;
 }
 
 @media all and (max-width: 991px) {
@@ -343,4 +343,85 @@ ul.quickFind-list > li {
 
 .facet-remove:hover {
     color: #000000 !important;
+}
+
+@media (max-width: 1200px) and (min-width: 768px) {
+    .navbar.navbar-default.black_75>.container {
+        width: 1200px;
+    }
+}​
+
+.right-col {
+    border-right: 5px solid #cc0000;
+}
+
+.left-col {
+    border-left: 5px solid #cc0000;
+}
+
+.right-col {
+    border-right: 5px solid #cc0000;
+}
+
+.about-list {
+    padding: 25px 0px 25px 25px;
+    line-height: 3em;
+}
+
+.bs-callout {
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+}
+.bs-callout h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+.bs-callout p:last-child {
+    margin-bottom: 0;
+}
+.bs-callout code {
+    border-radius: 3px;
+}
+.bs-callout+.bs-callout {
+    margin-top: -5px;
+}
+.bs-callout-default {
+    border-left-color: #777;
+}
+.bs-callout-default h4 {
+    color: #777;
+}
+.bs-callout-primary {
+    border-left-color: #428bca;
+}
+.bs-callout-primary h4 {
+    color: #428bca;
+}
+.bs-callout-success {
+    border-left-color: #5cb85c;
+}
+.bs-callout-success h4 {
+    color: #5cb85c;
+}
+.bs-callout-danger {
+    border-left-color: #CB1A1C;
+}
+.bs-callout-danger h4 {
+    color: #CB1A1C;
+}
+.bs-callout-warning {
+    border-left-color: #f0ad4e;
+}
+.bs-callout-warning h4 {
+    color: #f0ad4e;
+}
+.bs-callout-info {
+    border-left-color: #5bc0de;
+}
+.bs-callout-info h4 {
+    color: #5bc0de;
 }

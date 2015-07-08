@@ -38,9 +38,9 @@ module.exports = function ClientJsModule(pb) {
      * @param {String} directiveJS JavaScript to run after on-finish-render directive
      */
     ClientJs.getAngularController = function(objects, modules, directiveJS) {
-        if( modules.length > 0) {
+        // if (modules.length > 0) {
             modules = ['ngRoute', 'elasticui'];
-        }
+        //}
 
         var angularController = "var pencilblueApp = angular.module('pencilblueApp', " + JSON.stringify(modules) + ").constant('euiHost', 'https://main:jqrnsaklg2qyfv7nnw8aqjvvetujdipz@kili-eu-west-1.searchly.com')";
         if(!util.isNullOrUndefined(directiveJS)) {

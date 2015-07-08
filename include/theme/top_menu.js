@@ -107,6 +107,11 @@ module.exports = function TopMenuServiceModule(pb) {
                 if(pb.security.isAuthenticated(session)) {
                     accountButtons = [
                         {
+                            icon: 'cogs',
+                            title: ls.get('GOBACKEND'),
+                            href: '/admin'
+                        },
+                        {
                             icon: 'user',
                             title: ls.get('ACCOUNT'),
                             href: '/user/manage_account'
