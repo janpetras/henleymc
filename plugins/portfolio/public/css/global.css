@@ -430,4 +430,6 @@ ul.quickFind-list > li {
     background-color: #0080ff;
     color: #ffffff;
     position: absolute;
+    z-index: 9999;
+    width:100%;
 }
