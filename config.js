@@ -1,6 +1,6 @@
 module.exports = {
     "siteName": "Henley Management Centre",
-    "siteRoot": "/",
+    "siteRoot": "http://",
     "logging": {
         "level": "info"
     },
@@ -46,7 +46,7 @@ module.exports = {
         "max_upload_size": 6 * 1024 * 1024
     },
     "cluster": {
-        "workers": 1,
+        "workers": "auto",
         "self_managed": true
     }
 };
