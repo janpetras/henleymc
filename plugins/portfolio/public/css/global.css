@@ -425,3 +425,9 @@ ul.quickFind-list > li {
 .bs-callout-info h4 {
     color: #5bc0de;
 }
+
+.browserWarning {
+    background-color: #0080ff;
+    color: #ffffff;
+    position: absolute;
+}
