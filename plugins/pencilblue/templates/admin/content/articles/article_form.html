@@ -43,14 +43,44 @@
 						<input type="text" class="form-control" ng-model="article.subheading"></input>
 					</div>
 					<div class="form-group" ng-class="{'has-error': !isFieldValid(articleForm.publish_date)}">
-						<label>^loc_PUBLISH_DATE^</label>
+						<label>^loc_START_DATE^</label>
 						<div class="input-group">
-							<input type="text" name="publish_date" id="publish_date" class="form-control" ng-model="article.publish_date" required></input>
+							<input type="text" name="publish_date" id="publish_date" class="form-control" ng-model="article.publish_date"></input>
 							<span class="input-group-btn">
 								<button class="btn btn-default" type="button" ng-click="setPublishDateToNow()">^loc_NOW^</button>
 							</span>
 						</div>
 						<div class="form_error" ng-if="!isFieldValid(articleForm.publish_date)">^loc_REQUIRED_FIELD^</div>
+					</div>
+					<div class="form-group" ng-class="{'has-error': !isFieldValid(articleForm.publish_date2)}">
+						<label>^loc_START_DATE^</label>
+						<div class="input-group">
+							<input type="text" name="publish_date2" id="publish_date2" class="form-control" ng-model="article.publish_date2"></input>
+							<span class="input-group-btn">
+								<button class="btn btn-default" type="button" ng-click="setPublishDateToNow2()">^loc_NOW^</button>
+							</span>
+						</div>
+						<div class="form_error" ng-if="!isFieldValid(articleForm.publish_date2)">^loc_REQUIRED_FIELD^</div>
+					</div>
+					<div class="form-group" ng-class="{'has-error': !isFieldValid(articleForm.publish_date3)}">
+						<label>^loc_START_DATE^</label>
+						<div class="input-group">
+							<input type="text" name="publish_date3" id="publish_date3" class="form-control" ng-model="article.publish_date3"></input>
+							<span class="input-group-btn">
+								<button class="btn btn-default" type="button" ng-click="setPublishDateToNow3()">^loc_NOW^</button>
+							</span>
+						</div>
+						<div class="form_error" ng-if="!isFieldValid(articleForm.publish_date3)">^loc_REQUIRED_FIELD^</div>
+					</div>
+					<div class="form-group" ng-class="{'has-error': !isFieldValid(articleForm.publish_date4)}">
+						<label>^loc_START_DATE^</label>
+						<div class="input-group">
+							<input type="text" name="publish_date4" id="publish_date4" class="form-control" ng-model="article.publish_date4"></input>
+							<span class="input-group-btn">
+								<button class="btn btn-default" type="button" ng-click="setPublishDateToNow4()">^loc_NOW^</button>
+							</span>
+						</div>
+						<div class="form_error" ng-if="!isFieldValid(articleForm.publish_date4)">^loc_REQUIRED_FIELD^</div>
 					</div>
 					<div class="form-group">
 					    <label>^loc_ALLOW_COMMENTS^?</label><br/>

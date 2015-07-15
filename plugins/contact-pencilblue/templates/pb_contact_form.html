@@ -17,6 +17,10 @@
     <label for="pb_contact_course">^loc_COURSE^</label>
     <input type="text" id="pb_contact_course" name="pb_contact_course" class="form-control" required></input>
   </div>
+    <div class="form-group">
+    <label for="pb_contact_date">^loc_DATE^</label>
+    <input type="text" id="pb_contact_date" name="pb_contact_date" class="form-control" required></input>
+  </div>
   <div class="form-group">
     <label for="pb_contact_name">^loc_NAME^</label>
     <input type="text" id="pb_contact_name" name="pb_contact_name" class="form-control" required></input>
@@ -54,11 +58,12 @@
 <script type="text/javascript" src="/public/contact-pencilblue/js/pb_contact_form.js"></script>
 <script>
 $( document ).ready(function() {
-    title = localStorage.getItem('course');
-    if (localStorage.getItem("course") !== null) {
-  $("#coursetitle").text(title);
-}
-    
+  title = localStorage.getItem('course');
+  timestamp = localStorage.getItem('date');
+  if (localStorage.getItem("course") !== null) {
+    $("#coursetitle").text(title);
+  }
     $("#pb_contact_course").val(title);
+    $("#pb_contact_date").val(timestamp);
 });
 </script>

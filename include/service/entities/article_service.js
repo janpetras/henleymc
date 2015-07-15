@@ -269,7 +269,24 @@ module.exports = function ArticleServiceModule(pb) {
                         article.publish_date,
                         contentSettings
                 );
+
+                article.timestamp2 = pb.ContentService.getTimestampTextFromSettings(
+                        article.publish_date2,
+                        contentSettings
+                );
+
+                article.timestamp3 = pb.ContentService.getTimestampTextFromSettings(
+                        article.publish_date3,
+                        contentSettings
+                );
+
+                article.timestamp4 = pb.ContentService.getTimestampTextFromSettings(
+                        article.publish_date4,
+                        contentSettings
+                );
             }
+
+   
 
             if(article.article_layout.indexOf('^read_more^') > -1) {
               if(articleCount > 1) {

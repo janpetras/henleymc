@@ -159,7 +159,7 @@ module.exports = function ContentServiceModule(pb) {
 
         var month = date.getMonth() + 1;
         var day   = date.getDate();
-
+        
         month = (twoDigitDate && month < 10) ? '0' + month : month.toString();
         day   = (twoDigitDate && day < 10) ? '0' + day : day.toString();
 

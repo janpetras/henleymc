@@ -35,6 +35,9 @@ module.exports = function(pb) {
             }
 
             post.publish_date = new Date(parseInt(post.publish_date));
+            post.publish_date2 = new Date(parseInt(post.publish_date2));
+            post.publish_date3 = new Date(parseInt(post.publish_date3));
+            post.publish_date4 = new Date(parseInt(post.publish_date4));
             delete post[pb.DAO.getIdField()];
 
             var message = self.hasRequiredParams(post, self.getRequiredFields());

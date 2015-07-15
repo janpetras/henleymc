@@ -299,6 +299,9 @@ module.exports = function BlogModule(pb) {
         ats.registerLocal('article_id', content[pb.DAO.getIdField()].toString());
         ats.registerLocal('article_index', index);
         ats.registerLocal('article_timestamp', showTimestamp && content.timestamp ? content.timestamp : '');
+        ats.registerLocal('article_timestamp2', showTimestamp && content.timestamp2 ? content.timestamp2 : '');
+        ats.registerLocal('article_timestamp3', showTimestamp && content.timestamp3 ? content.timestamp3 : '');
+        ats.registerLocal('article_timestamp4', showTimestamp && content.timestamp4 ? content.timestamp4 : '');
         ats.registerLocal('article_timestamp_display', showTimestamp ? '' : 'display:none;');
         ats.registerLocal('article_layout', new pb.TemplateValue(content.layout, false));
         ats.registerLocal('article_url', content.url);

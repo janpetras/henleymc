@@ -315,6 +315,7 @@ var loc =
         DRAFT: 'Draft',
         ALLOW_COMMENTS: 'Allow comments',
         INSERT_READ_MORE: 'Insert a read more break',
+        START_DATE: 'Start date',
     },
     wysiwyg: {
         NORMAL_TEXT: 'Normal text',
