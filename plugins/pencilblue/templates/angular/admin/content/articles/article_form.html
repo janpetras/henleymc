@@ -13,6 +13,7 @@
 		$scope.article.publish_date2 = $filter('date')($scope.article.publish_date2 || new Date(), 'MM-dd-yyyy HH:mm');
 		$scope.article.publish_date3 = $filter('date')($scope.article.publish_date3 || new Date(), 'MM-dd-yyyy HH:mm');
 		$scope.article.publish_date4 = $filter('date')($scope.article.publish_date4 || new Date(), 'MM-dd-yyyy HH:mm');
+		$scope.article.publish_date5 = $filter('date')($scope.article.publish_date5 || new Date(), 'MM-dd-yyyy HH:mm');
 		$scope.layout = $sce.trustAsHtml($scope.article.article_layout);
 		$scope.article.meta_keywords = $scope.article.meta_keywords ? $scope.article.meta_keywords.join(',') : '';
 		$scope.editingObject = $scope.article;
@@ -24,18 +25,6 @@
 
 		$scope.setPublishDateToNow = function() {
 			$scope.article.publish_date = $filter('date')(new Date(), 'MM-dd-yyyy HH:mm');
-		};
-
-		$scope.setPublishDateToNow2 = function() {
-			$scope.article.publish_date2 = $filter('date')(new Date(), 'MM-dd-yyyy HH:mm');
-		};
-
-		$scope.setPublishDateToNow3 = function() {
-			$scope.article.publish_date3 = $filter('date')(new Date(), 'MM-dd-yyyy HH:mm');
-		};
-
-		$scope.setPublishDateToNow4 = function() {
-			$scope.article.publish_date4 = $filter('date')(new Date(), 'MM-dd-yyyy HH:mm');
 		};
 
 		$scope.getUrlAvailability = function() {
@@ -129,6 +118,7 @@
 			articleData.publish_date2 = (new Date($filter('parsableDate')($scope.article.publish_date2))).getTime();
 			articleData.publish_date3 = (new Date($filter('parsableDate')($scope.article.publish_date3))).getTime();
 			articleData.publish_date4 = (new Date($filter('parsableDate')($scope.article.publish_date4))).getTime();
+			articleData.publish_date5 = (new Date($filter('parsableDate')($scope.article.publish_date5))).getTime();
 			articleData.draft = draft ? 1 : 0;
 
 			var media = [];
@@ -169,6 +159,7 @@
 		$('#publish_date2').datetimepicker({format: 'm-d-Y H:i'});
 		$('#publish_date3').datetimepicker({format: 'm-d-Y H:i'});
 		$('#publish_date4').datetimepicker({format: 'm-d-Y H:i'});
+		$('#publish_date5').datetimepicker({format: 'm-d-Y H:i'});
 		$timeout($scope.saveArticleDraft, 30000);
 	})
 	^tmp_angular=admin=elements=url_safe^

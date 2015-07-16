@@ -284,6 +284,11 @@ module.exports = function ArticleServiceModule(pb) {
                         article.publish_date4,
                         contentSettings
                 );
+
+                article.timestamp5 = pb.ContentService.getTimestampTextFromSettings(
+                        article.publish_date5,
+                        contentSettings
+                );
             }
 
    

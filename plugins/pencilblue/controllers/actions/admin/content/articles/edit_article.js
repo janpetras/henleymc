@@ -35,6 +35,7 @@ module.exports = function(pb) {
             post.publish_date2 = new Date(parseInt(post.publish_date2));
             post.publish_date3 = new Date(parseInt(post.publish_date3));
             post.publish_date4 = new Date(parseInt(post.publish_date4));
+            post.publish_date5 = new Date(parseInt(post.publish_date5));
             post.id = vars.id;
             delete post[pb.DAO.getIdField()];
 

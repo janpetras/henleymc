@@ -275,6 +275,7 @@ module.exports = function IndexModule(pb) {
         ats.registerLocal('article_timestamp2', showTimestamp && content.timestamp2 ? content.timestamp2 : '');
         ats.registerLocal('article_timestamp3', showTimestamp && content.timestamp3 ? content.timestamp3 : '');
         ats.registerLocal('article_timestamp4', showTimestamp && content.timestamp4 ? content.timestamp4 : '');
+        ats.registerLocal('article_timestamp5', showTimestamp && content.timestamp5 ? content.timestamp5 : '');
         ats.registerLocal('article_timestamp_display', showTimestamp ? '' : 'display:none;');
         ats.registerLocal('article_layout', new pb.TemplateValue(content.layout, false));
         ats.registerLocal('article_url', content.url);
