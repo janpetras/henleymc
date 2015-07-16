@@ -128,7 +128,7 @@ module.exports = function IndexModule(pb) {
                                     var calloutTemplate = template.split('^copy^').join(callouts[i].copy);
                                     if(callouts[i].headline && callouts[i].headline.length) {
                                         if(callouts[i].link && callouts[i].link.length) {
-                                            calloutTemplate = calloutTemplate.split('^headline^').join('<h3><a href="' + callouts[i].link + '">' + callouts[i].headline + '</a></h3>');
+                                            calloutTemplate = calloutTemplate.split('^headline^').join('<h3><a href="' + callouts[i].link + '" target="_blank">' + callouts[i].headline + '</a></h3>');
                                         }
                                         else {
                                             calloutTemplate = calloutTemplate.split('^headline^').join('<h3>' + callouts[i].headline + '</h3>');

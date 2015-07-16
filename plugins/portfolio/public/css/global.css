@@ -430,3 +430,8 @@ ul.quickFind-list > li {
     background-color: #0080ff;
     color: #ffffff;
 }
+
+.required :after { 
+    content: " *";
+    color: #CB1A1C;
+}
