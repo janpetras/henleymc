@@ -7,9 +7,9 @@ module.exports = {
     "db": {
         "type":"mongo",
         "servers": [
-          "ds039251.mongolab.com:39251"
+          "ds027693-a1.mongolab.com:27693"
         ],
-        "name": "henley_db",
+        "name": "henleymc_db",
         "authentication": {
             "un": "ian",
             "pw": "millenium20"
