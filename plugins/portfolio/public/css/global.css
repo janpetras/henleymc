@@ -435,3 +435,8 @@ ul.quickFind-list > li {
     content: " *";
     color: #CB1A1C;
 }
+
+.capitalsHR ul li:nth-child(4)  { 
+  text-transform: uppercase;
+}
+}
