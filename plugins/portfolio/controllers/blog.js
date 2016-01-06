@@ -312,6 +312,8 @@ module.exports = function BlogModule(pb) {
         ats.registerLocal('author_name', content.author_name ? content.author_name : '');
         ats.registerLocal('author_position', content.author_position ? content.author_position : '');
         ats.registerLocal('media_body_style', content.media_body_style ? content.media_body_style : '');
+        ats.registerLocal('article_duration', content.duration);
+        ats.registerLocal('article_price', content.price);
         ats.registerLocal('comments', function(flag, cb) {
            if (content.object_type === 'page' || !contentSettings.allow_comments || !content.allow_comments) {
                cb(null, '');

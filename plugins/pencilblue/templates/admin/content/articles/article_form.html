@@ -71,6 +71,22 @@
 						<label>^loc_START_DATE^</label>
 						<input type="text" name="publish_date5" id="publish_date5" class="form-control" ng-model="article.publish_date5"></input>
 					</div>
+					<div>
+					<h4 class="text-center">Course duration</h4>
+					</div>
+					<div class="form-group" ng-class="{'has-error': !isFieldValid(articleForm.duration)}">
+						<label>Duration</label>
+						<input type="text" name="duration" class="form-control" ng-model="article.duration" required></input>
+						<div class="form_error" ng-if="!isFieldValid(articleForm.duration)">^loc_REQUIRED_FIELD^</div>
+					</div>
+					<div>
+					<h4 class="text-center">Course price</h4>
+					</div>
+					<div class="form-group" ng-class="{'has-error': !isFieldValid(articleForm.price)}">
+						<label>Price</label>
+						<input type="text" name="price" class="form-control" ng-model="article.price" required></input>
+						<div class="form_error" ng-if="!isFieldValid(articleForm.price)">^loc_REQUIRED_FIELD^</div>
+					</div>
 					<div class="form-group">
 					    <label>^loc_ALLOW_COMMENTS^?</label><br/>
 					    <div class="btn-group">

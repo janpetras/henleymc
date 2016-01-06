@@ -1,3 +1,26 @@
+.priceDuration {
+    text-align: center;
+    font-weight: bold;
+    color: #FFFFFF;
+}
+
+#duration {
+ text-align: left;
+ background-color: #CB1A1C;
+}
+
+#price {
+ text-align: left;
+ background-color: #CB1A1C;
+}
+
+.startDates {
+    text-align: center;
+    font-weight: bold;
+    color: #CB1A1C;
+    font-size: 16px;
+}
+
 a:hover, a:focus {
     color: #CB1A1C;
     text-decoration: none;
