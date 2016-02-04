@@ -2,6 +2,7 @@ var loc =
 {
     generic:
     {
+        RELATED_COURSES: 'Related Courses',
         PENCILBLUE: 'Henley Management Centre',
         ALL_RIGHTS: 'All rights reserved',
         NONE: 'None',
