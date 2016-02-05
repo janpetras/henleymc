@@ -64,6 +64,7 @@ $("#requestCall").click(function() {
 });
 </script>
 
+<!-- Hide date, price, duration and book buttons depending on location -->
 <script type="text/javascript">
 if (window.location.href.indexOf("courses") != -1) {
 $(".hideBook").hide();
@@ -74,6 +75,13 @@ $(".time-hide-courses").hide();
 <script type="text/javascript">
 if (window.location.href.indexOf("/article/") != -1) {
 $(".time-hide-article").hide();
+}
+</script>
+
+<script type="text/javascript">
+if (window.location.href.indexOf("/topic/") != -1) {
+$(".hideBook").hide();
+$(".time-hide-courses").hide();
 }
 </script>
 

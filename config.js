@@ -1,6 +1,6 @@
 module.exports = {
     "siteName": "Henley Management Centre",
-    "siteRoot": "/",
+    "siteRoot": "http://www.henley.training/",
     "logging": {
         "level": "info"
     },
