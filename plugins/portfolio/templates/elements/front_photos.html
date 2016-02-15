@@ -35,3 +35,22 @@
 		<p>Courses are continuously reviewed ensuring that the content is the very latest and therefore provide delegates and their organisations with a true competitive advantage. Our unique practical training approach blends the development of conceptual skills into the training courses, showing delegates how to manage a range of problems typical of those found within any modern organisation.</p>
 	</div>
 </div>
+
+<!--
+
+&then=`[[*coursePriceActive:is=`1`:then=`
+<span>[[*coursePrice:notempty=`London fees <strong>&pound;[[*coursePrice]]</strong>`]]</span> 
+<span>[[*coursePrice2:notempty=`Dubai fees <strong>&dollar;[[*coursePrice2]]</strong>`]]</span>
+<span>[[*coursePrice3:notempty=`Doha fees <strong>&dollar;[[*coursePrice3]]</strong>`]]</span>
+<span>[[*coursePrice4:notempty=`Kuwait fees <strong>&dollar;[[*coursePrice4]]</strong>`]]</span>
+`:else=`<p><a class="btn-orange-small" href="[[~15]]?course=[[*pagetitle]]&code=[[*menutitle]]">Enquire about this course</a></p>`]]`
+
+								&then=`[[*coursePriceActive:is=`1`:then=`[[getCourseVenuePrices? &tpl=`VenuePriceItem`]][[-<span>[[*coursePrice:notempty=`London fees <strong>&pound;[[*coursePrice]]</strong>`]]</span> <span>[[*coursePrice2:notempty=`Dubai fees <strong>&pound;[[*coursePrice2]]</strong>`]]</span>]]`:else=`<p><a class="btn-orange-small" href="[[~15]]?course=[[*pagetitle]]&code=[[*menutitle]]">Enquire about this course</a></p>`]]`
+
+
+&then=`[[*coursePriceActive:is=`1`:then=`
+<span>[[*coursePrice:notempty=`London fees <strong>&pound;[[*coursePrice]]</strong>`]]</span> 
+<span>[[*coursePrice2:notempty=`Dubai fees <strong>&dollar;[[*coursePrice2]]</strong>`]]</span>
+`:else=`<p><a class="btn-orange-small" href="[[~15]]?course=[[*pagetitle]]&code=[[*menutitle]]">Enquire about this course</a></p>`]]`
+
+-->
