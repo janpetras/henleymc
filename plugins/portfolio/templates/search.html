@@ -2,18 +2,18 @@
 <div ng-class="{container: true, standalone: !hero_image}" class="container standalone">
     <div class="row">
     	<div class="col-xs-12">
-    		<h3 class="title">Search courses</h3>
+    		<h3 class="title">Search subjects</h3>
 	</div>
 		<div class="col-xs-12 col-sm-3">
-		    <h4 class="title">Course area</h4>
+		    <h4 class="title">Subject area</h4>
 		    <div class="col-xs-12">
             	<eui-singleselect field="'meta_keywords'" size="10" class="sideFind capitalsHR"></eui-checklist>
 	</div>
 	</div>
         <div class="col-xs-12 col-sm-7">
-        	<span class="searchby">Search by course name, skill, field or course code</span>
+        	<span class="searchby">Search by subject name, skill, field or subject code</span>
         	<eui-searchbox field="'headline'" class="quickFind"></eui-searchbox>
-        	<h3 class="noTop">&nbsp;Courses found</h3>
+        	<h3 class="noTop">&nbsp;Subjects found</h3>
             <ul class="quickFind-list">
                 <li ng-repeat="doc in indexVM.results.hits.hits">
                     <a href="article/{{doc._source.url}}">&nbsp;{{doc._source.headline | limitTo: 300}}</a>
@@ -22,12 +22,7 @@
                 <!--<eui-simple-paging></eui-simple-paging>-->
     </div>
 
-    			<div class="col-xs-12 col-sm-2">
-		    <h4 class="title">Location</h4>
-		    <div class="col-xs-12">
-            	<eui-singleselect field="'subheading'" size="10" class="sideFind"></eui-checklist>
-	</div>
-</div>
+    			
 </div>
 </div>
 
